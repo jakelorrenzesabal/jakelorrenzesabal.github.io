@@ -6,7 +6,7 @@ Astro-Vitae is a free, personalized CV template with sleek & minimal design whic
 
 ## Demo
 
-View a live demo of [Astro-Vitae](https://astro-vitae.vercel.app/)
+View a live demo of [Astro-Vitae](https://jakelorrenzesabal.github.io/)
 
 ## Requirements
 
@@ -90,8 +90,8 @@ Astro-Vitae is licensed under the MIT license — see the [LICENSE](https://gith
 
 ## Contributors
 
-<a href="https://github.com/uskhokhar/astro-vitae/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=uskhokhar/astro-vitae" />
+<a href="https://github.com/jakelorrenzesabal/astro-vitae/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jakelorrenzesabal/astro-vitae" />
 </a>
 
 Happy Hecking 🙌 

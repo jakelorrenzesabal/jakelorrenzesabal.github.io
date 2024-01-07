@@ -1,9 +1,9 @@
 // Personal Information --> #hero section
-export const name = "Peter Griffin"
-export const designation = "Safety Inspector"
-export const location = "Quahog, Rhode Island"
+export const name = "Jake Lorenze B.Sabal"
+export const designation = "Software Developer"
+export const location = "Cibu City"
 export const pronouns = "he/him"
-export const website = "https://petergriffin.com"
+export const website = "https://jls.octanity.net/"
 
 // About
 export const about = "An adventurous man working as a safety inspector with a quirky sense of humor. Husband to Louis Griffin. Father of Chris, Brian, and Stewie."
@@ -15,7 +15,7 @@ export const work = [
 		to: "Present",
 		role: "Safety Inspector",
 		org: "Quahog Safety Department",
-		org_url: "https://quahog.gov/safety",
+		org_url: "https://jls.octanity.net/",
 		location: "Quahog, Rhode Island",
 		skills: "Safety Inspection, Risk Assessment, Emergency Response"
 	}
@@ -26,19 +26,19 @@ export const projects = [
 	{
 		title: "Project Griffin",
 		description: "A project to improve safety standards in Quahog by implementing innovative safety measures.",
-		url: "https://projectgriffin.com",
+		url: "https://jls.octanity.net/",
 		tech: "Safety Equipment, Training Programs, Community Outreach",
 	},
 	{
 		title: "Family Safety Campaign",
 		description: "An initiative to promote safety awareness among families in Quahog.",
-		url: "https://safefamilyquahog.com",
+		url: "https://jls.octanity.net/",
 		tech: "Workshops, Educational Material, Public Events",
 	},
 	{
 		title: "Road Safety Initiative",
 		description: "A campaign to enhance road safety and reduce accidents in Quahog.",
-		url: "https://roadsafetyquahog.com",
+		url: "https://jls.octanity.net/",
 		tech: "Traffic Analysis, Signage Improvement, Public Awareness",
 	}
 ]
@@ -76,11 +76,11 @@ export const contact = [
 	},
 	{
 		source_name: "Twitter",
-		source: "https://twitter.com/PeterGriffin",
+		source: "https://jls.octanity.net/",
 	},
 	{
 		source_name: "LinkedIn",
-		source: "https://www.linkedin.com/in/peter-griffin",
+		source: "https://jls.octanity.net/",
 	},
 ]
 
@@ -91,21 +91,21 @@ export const certificates = [
 		issued: "2005",
 		title: "Certified Safety Inspector",
 		org: "National Safety Association",
-		url: "https://certi.com/url",
+		url: "https://jls.octanity.net/",
 		description: "Certification in safety inspection and risk assessment.",
 	},
 	{
 		issued: "2006",
 		title: "Emergency Response Training",
 		org: "Quahog Safety Department",
-		url: "https://certi.com/url",
+		url: "https://jls.octanity.net/",
 		description: "Training in handling emergency situations and crisis management.",
 	},
 	{
 		issued: "2007",
 		title: "Safety Leadership Workshop",
 		org: "Safety Leaders International",
-		url: "https://certi.com/url",
+		url: "https://jls.octanity.net/",
 		description: "Leadership training in safety management and communication.",
 	}
 ]
@@ -114,14 +114,14 @@ export const certificates = [
 export const blogs = [
 	{
 		date: "12-July, 2023",
-		url: "https://medium.com/",
+		url: "https://jls.octanity.net/",
 		title: "Adventures in Safety Inspection",
 		description: "Join me in my humorous escapades as a safety inspector in Quahog.",
 		publisher: "Quahog Times",
 	},
 	{
 		date: "25-June, 2023",
-		url: "https://medium.com/",
+		url: "https://jls.octanity.net/",
 		title: "Top 10 Safety Tips for Families",
 		description: "Learn the best safety practices for families to ensure a secure environment.",
 		publisher: "Safety Monthly",

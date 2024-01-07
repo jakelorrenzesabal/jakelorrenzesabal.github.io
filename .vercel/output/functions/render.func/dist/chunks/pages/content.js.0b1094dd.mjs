@@ -1,15 +1,15 @@
 // Personal Information --> #hero section
-export const name = "Jake Lorenze B.Sabal"
-export const designation = "Software Developer"
-export const location = "Cibu City"
-export const pronouns = "he/him"
-export const website = "https://jls.octanity.net/"
+const name = "Jake Lorenze B.Sabal";
+const designation = "Software Developer";
+const location = "Cibu City";
+const pronouns = "he/him";
+const website = "https://jls.octanity.net/";
 
 // About
-export const about = "An adventurous man working as a safety inspector with a quirky sense of humor. Husband to Louis Griffin. Father of Chris, Brian, and Stewie."
+const about = "An adventurous man working as a safety inspector with a quirky sense of humor. Husband to Louis Griffin. Father of Chris, Brian, and Stewie.";
 
 // Work Experience --> #work section
-export const work = [
+const work = [
 	{
 		from: "2001",
 		to: "Present",
@@ -19,12 +19,12 @@ export const work = [
 		location: "Quahog, Rhode Island",
 		skills: "Safety Inspection, Risk Assessment, Emergency Response"
 	}
-]
+];
 
 // Projects --> #project section
-export const projects = [
+const projects = [
 	{
-		title: "Jake Lorenze B.Sabal",
+		title: "Project Griffin",
 		description: "A project to improve safety standards in Quahog by implementing innovative safety measures.",
 		url: "https://jls.octanity.net/",
 		tech: "Safety Equipment, Training Programs, Community Outreach",
@@ -41,10 +41,10 @@ export const projects = [
 		url: "https://jls.octanity.net/",
 		tech: "Traffic Analysis, Signage Improvement, Public Awareness",
 	}
-]
+];
 
 // Education --> #education section
-export const education = [
+const education = [
 	{
 		from: "1995",
 		to: "1999",
@@ -66,10 +66,10 @@ export const education = [
 		course: "Master of Science in Safety Engineering",
 		location: "Boston, Massachusetts"
 	}
-]
+];
 
 // Contact --> #contact section
-export const contact = [
+const contact = [
 	{
 		source_name: "Email",
 		source: "peter.griffin@example.com",
@@ -82,11 +82,11 @@ export const contact = [
 		source_name: "LinkedIn",
 		source: "https://jls.octanity.net/",
 	},
-]
+];
 
 // Certifications --> #certificate section
 
-export const certificates = [
+const certificates = [
 	{
 		issued: "2005",
 		title: "Certified Safety Inspector",
@@ -108,10 +108,10 @@ export const certificates = [
 		url: "https://jls.octanity.net/",
 		description: "Leadership training in safety management and communication.",
 	}
-]
+];
 
 // Blogs --> #blogs section
-export const blogs = [
+const blogs = [
 	{
 		date: "12-July, 2023",
 		url: "https://jls.octanity.net/",
@@ -126,10 +126,10 @@ export const blogs = [
 		description: "Learn the best safety practices for families to ensure a secure environment.",
 		publisher: "Safety Monthly",
 	}
-]
+];
 
 // Achievements --> #achievement section
-export const achievements = [
+const achievements = [
 	{
 		title: "Safety Hero Award",
 		year: "2020",
@@ -150,4 +150,6 @@ export const achievements = [
 		year: "2013",
 		decription: "Acknowledged for leading a successful safety campaign that reached thousands of residents."
 	}
-]
+];
+
+export { about, achievements, blogs, certificates, contact, designation, education, location, name, projects, pronouns, website, work };

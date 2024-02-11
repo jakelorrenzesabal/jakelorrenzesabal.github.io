@@ -1,0 +1,20 @@
+@media only screen and (max-width: 600px) {
+    .hero {
+        padding: 50px 0; /* Reduce padding for smaller screens */
+    }
+
+    .detel {
+        flex-direction: column; /* Stack the two spans vertically */
+        align-items: center; /* Center items in the detel div */
+        text-align: center; /* Center text within spans */
+    }
+
+    .hero h1 {
+        font-size: 1.5em;
+    }
+
+    .hero p {
+        font-size: 1em;
+    } 
+
+}

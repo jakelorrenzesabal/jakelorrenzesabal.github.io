@@ -2,7 +2,7 @@
 layout: /src/layouts/MarkdownAbout.astro
 title: "Jake Lorenze Sabal | My Journey in Technology and Web Development 🚀| EFEELE"
 description: "Web developer, technology enthusiast, and event organizer. From my beginnings in development to creating communities and impactful projects, here I share my journey, experiences, and learnings. 🚀☕"
-author: "Fernando Lopez"
+author: "Jake Lorenze Sabal"
 image:
   url: "/images/jakePP.webp"
   alt: "Photo of Jake lorenze Sabal for the blog"
@@ -104,6 +104,6 @@ Today, in 2025, I continue working as **_Software Development Coordinator_** in 
 
 Oh! And I'm an expert at preparing coffee. Seriously, whether it's to start the day or for a creative session, I have the perfect recipe. I'm also pretty good at board games, so if you ever need a partner for a game night, I'm your person! 🎲
 
-I'm **Fernando Aldair López Ponce**, and I thank you for reading this.
+I'm **Jake Lorenze Sabal**, and I thank you for reading this.
 
 ## Let's Create Amazing Things! 🚀 

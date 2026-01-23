@@ -29,10 +29,7 @@ export const languages: Record<string, Language> = {
     name: "JavaScript",
     iconName: "javascript",
   },
-  mongo: {
-    name: "MongoDb",
-    iconName: "mongo",
-  },
+
   mysql: {
     name: "MySQL",
     className: "!bg-[#f6ece1]",
@@ -46,10 +43,7 @@ export const languages: Record<string, Language> = {
     name: "Node.js",
     iconName: "node",
   },
-  tailwind: {
-    name: "Tailwind CSS",
-    iconName: "tailwind",
-  },
+
   figma: {
     name: "Figma",
     iconName: "figma",
@@ -62,10 +56,7 @@ export const languages: Record<string, Language> = {
     name: "Markdown",
     iconName: "markdown",
   },
-  php: {
-    name: "PHP",
-    iconName: "php",
-  },
+
   sass: {
     name: "Sass",
     iconName: "sass",
@@ -86,10 +77,7 @@ export const languages: Record<string, Language> = {
     name: "Vercel",
     iconName: "vercel",
   },
-  netlify: {
-    name: "Netlify",
-    iconName: "netlify",
-  },
+
   gatsby: {
     name: "Gatsby",
     iconName: "gatsby",
@@ -109,6 +97,27 @@ export const languages: Record<string, Language> = {
   python: {
     name: "Python",
     iconName: "python",
+  },
+
+  csharp: {
+    name: "C#",
+    iconName: "csharp",
+  },
+  cpp: {
+    name: "C++",
+    iconName: "cpp",
+  },
+  antigravity: {
+    name: "Antigravity AI",
+    iconName: "antigravity",
+  },
+  express: {
+    name: "Express.js",
+    iconName: "node",
+  },
+  sequelize: {
+    name: "Sequelize",
+    iconName: "mysql",
   },
 };
 
